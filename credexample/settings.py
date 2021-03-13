@@ -26,7 +26,7 @@ SECRET_KEY = '#4ay2c%x84*obk74e8lde&!4*q)f9*!m+$wi&fcaxfn=qtifoa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysterious-sea-02778.herokuapp.com']
 
 
 # Application definition
